@@ -1,0 +1,8 @@
+// 20230305145902
+// https://newsapi.org/v2/top-headlines?country=us&category=business&apiKey=35dc7741ce534a35a9deac7769a7380d
+
+// {
+//   "status": "ok",
+//   "totalResults": 69,
+//   "articles":
+// }
